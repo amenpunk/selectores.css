@@ -60,6 +60,35 @@ a:link{
     color: red;
 }
 
-a:visited{
-    color:teal;
+
+tr.teal{
+    color: teal;
+}
+
+tr.red{
+    color: red;
+}
+
+tr.blue{
+    color: blue;
+}
+
+tr.orange{
+    color:orange;
+}
+
+tr.purple{
+    color:purple;
+}
+
+tr.olive{
+    color:olive;
+}
+
+tr.fuchsia{
+    color: fuchsia;
+}
+
+tr.green{
+    color: green;
 }
