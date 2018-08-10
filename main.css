@@ -45,3 +45,21 @@ aside p{
     font-size: 25px;
     color: floralwhite;
 }
+
+section article{
+    float: left;
+    width: 50%;
+    padding: 20px 0;
+    text-align: center;
+    margin: 20px auto;
+    width: 50%
+}
+
+a:link{
+    text-decoration: none;
+    color: red;
+}
+
+a:visited{
+    color:teal;
+}
