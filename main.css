@@ -18,8 +18,11 @@ li:hover{
     background-color: #111111;
 }
 
+
 #tabla tr{
     background-color: #333333;
+    width: 10px;
+    height: 10px;
 }
 
 .uno{
