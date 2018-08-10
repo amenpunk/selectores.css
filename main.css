@@ -7,7 +7,7 @@ ul{
 li{
     font-family: fantasy;
     font-size: 15px;
-    color:sandybrown;
+    color:teal;
     display: block;
     float:left;
     text-align: center;
@@ -16,4 +16,20 @@ li{
 
 li:hover{
     background-color: #111111;
+}
+
+#tabla tr{
+    background-color: #333333;
+}
+
+.uno{
+    color: lightcoral;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.cero{
+    padding: 5px;
+    font-size: 25px;
+    color: floralwhite;
 }
