@@ -1,0 +1,19 @@
+ul{
+    background-color:#333333;
+    overflow: hidden;
+}
+
+
+li{
+    font-family: fantasy;
+    font-size: 15px;
+    color:sandybrown;
+    display: block;
+    float:left;
+    text-align: center;
+    padding : 15px;
+}
+
+li:hover{
+    background-color: #111111;
+}
